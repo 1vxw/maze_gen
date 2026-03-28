@@ -23,4 +23,4 @@ The algorithm starts at a given cell and:
 - [ ] Export maze to image
 
 ##
-<img src="./Screenshot 2026-03-28 090203.png">
+<img src="./Screenshot 2026-03-28 090203.png" height=200 witdth=200>
