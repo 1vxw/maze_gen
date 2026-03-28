@@ -18,20 +18,9 @@ The algorithm starts at a given cell and:
 
 ## TODO
 
-- [ ] Add maze solver using BFS
+- [x] Add maze solver using BFS
 - [ ] Implement DFS solver for comparison
 - [ ] Export maze to image
 
 ##
-
-```python
-from maze_generator import GenMaze
-
-# Create a 39x19 maze with seed 1, starting at (1, 1)
-maze = GenMaze(39, 19, 1, 1, 1)
-
-# Generate the maze
-maze.visit(1, 1)
-
-# Display the final maze
-maze.printMaze(maze.getMaze())
+<img src="./Screenshot 2026-03-28 090203.png">
